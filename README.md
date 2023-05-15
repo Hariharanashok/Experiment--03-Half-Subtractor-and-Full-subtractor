@@ -34,7 +34,7 @@ Write the detailed procedure here
 
 ## Program:
 /*
-~~~
+
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
 Developed by: HARIHARAN A
 RegisterNumber: 212222100012
@@ -53,6 +53,7 @@ endmodule
 ```
 
 Full Subtractor:
+
 ```python
 module ex03(A,B,C,Diff,Borrow);
 input A,B,C;
